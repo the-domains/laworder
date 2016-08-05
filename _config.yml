@@ -1,4 +1,3 @@
-layout_spectrum: 0.004019096726551652
 typography_spectrum: 0.6162133980542421
 color:
   brandStrength: 0.28431175043806434
@@ -11,5 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+layout_spectrum: 0.004019096726551652
 name: Law&Order
 title: This is my headlin
+description: And this is the subtitle
